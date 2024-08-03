@@ -2,4 +2,3 @@
 .python-version
 AGvenv
 db.sqlite3
-__pycache__
