@@ -1,6 +1,6 @@
 # AG Django CRUD API
 
-![AG Django CRUD API](https://media.giphy.com/media/l0HlPjez3pOsuP6uc/giphy.gif)  <!-- Replace with an actual link to your GIF -->
+![Django API](https://media.giphy.com/media/3o6fJ1BM7R2OXYdzrG/giphy.gif) <!-- Replace with an actual link to your GIF -->
 
 A simple CRUD (Create, Read, Update, Delete) API built with Django, showcasing the basic functionalities for managing blog posts.
 
