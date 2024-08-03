@@ -108,7 +108,7 @@ curl -X POST http://127.0.0.1:8000/blogposts/ \
 
     ## Deployment
 
-The project is deployed on Render. You can access the deployed API at [https://ag-django-crud-api.onrender.com](https://ag-django-crud-api.onrender.com/bogposts/).
+The project is deployed on Render. You can access the deployed API at [https://ag-django-crud-api.onrender.com](https://ag-django-crud-api.onrender.com/blogposts/).
 
 To deploy your own version, follow these steps:
 
