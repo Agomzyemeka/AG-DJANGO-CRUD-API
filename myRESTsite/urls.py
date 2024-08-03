@@ -27,11 +27,11 @@ from django.urls import path
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Your API",
+        title="myCRUDapi",
         default_version='v1',
-        description="Test description",
+        description="A simple CRUD (Create, Read, Update, Delete) API built with Django, showcasing the basic functionalities for managing blog posts.",
         terms_of_service="https://www.google.com/policies/terms/",
-        contact=openapi.Contact(email="contact@yourapi.local"),
+        contact=openapi.Contact(email="emyagomoh54321@gmail.com"),
         license=openapi.License(name="BSD License"),
     ),
     public=True,
