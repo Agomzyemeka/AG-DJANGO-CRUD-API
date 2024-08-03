@@ -244,7 +244,7 @@ To deploy this project on Render.com, follow these steps:
 3. **Add the collect static command** in the Render.com dashboard under the settings for your web service. Append the following to the build command:
     
     ```bash
-    && python manage.py collectstatic --noinput
+    && python manage.py collectstatic --noinput && python manage.py migrate
     ```
 
 
